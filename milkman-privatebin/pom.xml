@@ -22,7 +22,7 @@
 			<!-- TODO: re-implement de/encrypt in java, so we dont need nashorn for this -->
 			<groupId>org.openjdk.nashorn</groupId>
 			<artifactId>nashorn-core</artifactId>
-			<version>15.4</version>
+			<version>15.7</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
