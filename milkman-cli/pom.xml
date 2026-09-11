@@ -10,7 +10,7 @@
 	<artifactId>milkman-cli</artifactId>
 
 	<properties>
-		<jline.version>3.12.1</jline.version>
+		<jline.version>3.30.16</jline.version>
 	</properties>
 
 	<dependencies>
